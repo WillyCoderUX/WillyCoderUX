@@ -19,11 +19,6 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por la tecnología y el de
 <br>
 
 
-
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
-
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
